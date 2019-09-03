@@ -23,7 +23,7 @@ spiderselenium.py
 
 4.依照脚本提示，运行mouse.py ，需要模拟鼠标移动。在spiderselenium.py输入X 初始Y 末Y ，分别对应鼠标移动初始点的（X，初始Y），末尾点的（x，末Y）
 
-5.继续执行
+5.继续执行，最后在同目录下生成excel表格
 
 
 
