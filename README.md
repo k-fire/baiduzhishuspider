@@ -1,6 +1,7 @@
 # 百度指数(咨询指数)半自动化爬取
 
 脚本仅爬取咨询指数
+
 百度指数-> https://github.com/longxiaofei/spider-BaiduIndex/tree/master/new_spider_without_selenium
 
 环境  chrome 76 selenium
