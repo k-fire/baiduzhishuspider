@@ -15,7 +15,7 @@ def get_pages():
     chrome_options.add_experimental_option('excludeSwitches', ['enable-automation'])
     chrome_path = "E:\\Program Files\\chormedriver\\chromedriver76.exe"
     dr = webdriver.Chrome(executable_path=chrome_path ,options=chrome_options)
-    url = "http://index.baidu.com/v2/main/index.html#/trend/%E4%B9%9D%E5%B6%B7%E5%B1%B1?words=%E4%B9%9D%E5%B6%B7%E5%B1%B1"
+    url = "http://index.baidu.com/v2/main/index.html#/trend/B7%E5%B1%B1?words=%B7%E5%B1%B1"
     dr.get(url)
     y = input("[!]Y坐标：")
     first_x = int(input("[!]起始x坐标："))
