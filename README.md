@@ -6,10 +6,13 @@
 环境  chrome 76 selenium
 
 mouse.py 
+
 获取当前鼠标位置 
 
 spiderselenium.py
+
 使用方法：
+
 1.修改源码中url链接为百度指数xxx的展示页面，行18.
   修改行31，具体看注释
   
