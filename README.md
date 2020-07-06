@@ -2,7 +2,7 @@
 
 脚本仅爬取咨询指数
 
-百度指数-> https://github.com/longxiaofei/spider-BaiduIndex/tree/master/new_spider_without_selenium
+百度指数-> https://github.com/longxiaofei/spider-BaiduIndex/
 
 环境  chrome 76 selenium
 
